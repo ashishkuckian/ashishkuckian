@@ -7,7 +7,6 @@
 
 🎓 I'm a **Computer Science** student and a passionate **Web Developer** who loves building dynamic and responsive websites and applications.
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZjaTN5aHIxbngyZXQ2aGpmMWx3ZmVsZ3ozcmpycndtN2lqNmNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 
 ## 🚀 About Me
 
@@ -33,6 +32,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZjaTN5aHIxbngyZXQ2aGpmMWx3ZmVsZ3ozcmpycndtN2lqNmNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF" />
 
 ## 📫 Connect with Me
 
