@@ -1,6 +1,13 @@
 # 👋 Hi there, I'm Ashish!
 
+## 📲 Let's Connect
+
+[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/ashishuckian)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ashish-kuckian/)
+
 🎓 I'm a **Computer Science** student and a passionate **Web Developer** who loves building dynamic and responsive websites and applications.
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZjaTN5aHIxbngyZXQ2aGpmMWx3ZmVsZ3ozcmpycndtN2lqNmNrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 
 ## 🚀 About Me
 
